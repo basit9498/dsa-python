@@ -1,4 +1,4 @@
-arrData = [4, 7, 9, 2,2, 8, 3, 5]
+arrData = [4, 7, 9, 2, 8, 3, 5]
 
 
 def bubble_sort(arr):
